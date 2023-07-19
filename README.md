@@ -6,7 +6,7 @@ Fiz esse pequeno script para diminuir o tempo que levava para compactar os PDFs 
 
 Dê as permissões de leitura e escrita para o arquivo com o comando.
 
-` chmod +x compactar_pdf.sh `
+` chmod +x compactarpdf.sh `
 
 Caso a biblioteca [Ghostscript](https://www.ghostscript.com/) não estiver instalada o script gera os comandos para a instalação (Debian/Ubuntu).
 
